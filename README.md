@@ -111,6 +111,6 @@ git push
 
 ### 8.在个人端完成项目，修改内容，提交
 
-#### 9.当完成作品时请修改 PR 状态为 Ready For Review，会有工作人员合并 PR
+### 9.当完成作品时请修改 PR 状态为 Ready For Review，会有工作人员合并 PR
 ![](https://chainide-forum-img.s3.ap-northeast-1.amazonaws.com/8238.png)
 
