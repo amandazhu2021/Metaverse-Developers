@@ -1,5 +1,7 @@
 # Github PR提交流程 #
 
+<strong>PR提交截止日期：北京时间 2021年9月15日23：59</strong>
+
 ### 1. [创建一个github账户](https://github.com/)
 
 ### 2. [下载gitbash客户端，并在本地配置github](https://gitforwindows.org/)
